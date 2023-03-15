@@ -1,4 +1,4 @@
-# template_matching
+# Template Matching
 Recognise turbulence signal in AWC GTG forcast
 
 library: OpenCV
