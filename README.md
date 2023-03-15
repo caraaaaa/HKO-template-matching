@@ -1,5 +1,5 @@
 # template_matching
-Recognise turbulence signal in AWS GTG forcast
+Recognise turbulence signal in AWC GTG forcast
 
 library: OpenCV
 
